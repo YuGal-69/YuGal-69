@@ -108,10 +108,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Clean coder footer"/>
 </p>
-
-<!--
-Tips:
-- For animations: use reliable GIF/CDN sources like Giphy.
-- Keep your README structured and visually balanced.
-- Highlight your strongest projects or technologies near the top.
--->
