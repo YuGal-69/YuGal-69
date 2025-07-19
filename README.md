@@ -99,7 +99,7 @@
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yugal-69/yugal-69/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/YuGal-69/YuGal-69/blob/output/github-snake-dark.svg" alt="GitHub Snake dark" />
 </p>
 
 ---
