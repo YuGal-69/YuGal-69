@@ -3,20 +3,17 @@
   Clean, futuristic, developer-focused, and visually polished.
 -->
 
-<!-- Hero Banner -->
+<!-- 🚀 Working Hero Section with New Verified GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Developer animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Building+Full+Stack+Projects;Creating+Cybersecurity+Games;Learning+Cloud+and+DevOps" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00ADB5">Yugal Hemane</span>
+  <span style="color:#00ADB5">Transforming ideas into scalable solutions 💡</span>
 </h1>
-<h3 align="center">Full Stack Developer ⚙️ | Cloud Enthusiast ☁️ | Cybersecurity Advocate 🛡️</h3>
+<h3 align="center">Full Stack Developer ⚙️ | Cloud & DevOps Explorer ☁️ | Cybersecurity Game Builder 🛡️</h3>
 
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=480&lines=Clean+Code+is+my+Superpower;React+%2F+Angular+%2F+Node.js+Craftsman;Cloud+%26+DevOps+Explorer;Cybersecurity+Game+Maker;Open+Source+Believer+%F0%9F%A4%96" />
-</p>
 
 ---
 
@@ -103,8 +100,3 @@
 </p>
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Clean coder footer"/>
-</p>
